@@ -15,6 +15,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency 'curb', '0.8.4'
-  s.add_dependency 'json', '1.8.0'
+  s.add_dependency 'json', '1.8.1'
   s.add_dependency 'hashie', '2.0.5'
 end
